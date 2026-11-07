@@ -1,0 +1,6 @@
+{
+  "name": "Scholarly",
+  "description": "Document research library powered by Gemini with grounded Q&A, citation verification, and passage highlighting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
